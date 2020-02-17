@@ -36,7 +36,7 @@ class Main extends React.Component {
             This is who I am. This is a little paragraph about me!
           </p>
           <p>
-            Hi mom! I hope you like this!
+            Hi mom! I hope you like this! :)
           </p>
           {close}
         </article>
