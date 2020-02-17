@@ -1,6 +1,6 @@
 import PropTypes from 'prop-types'
 import React from 'react'
-import kapehe from '../images/kapehe.png'
+// import kapehe from '../images/kapehe.png'
 import pic02 from '../images/pic02.jpg'
 import pic03 from '../images/pic03.jpg'
 
@@ -30,7 +30,7 @@ class Main extends React.Component {
         >
           <h2 className="major">Intro</h2>
           <span className="image main">
-            <img src={kapehe} alt="" />
+            <img src="https://cdn.auth0.com/blog/auziros/kapehe-jorgenson.png" alt="" />
           </span>
           <p>
             This is who I am. This is a little paragraph about me!
